@@ -76,7 +76,3 @@ To run these notebooks on your local machine, follow these steps:
     ```
 
 5.  Open any of the `ML Lab Practical ... .ipynb` files to view and run the code.
-
-## 👨‍💻 Author
-
-* **Shreyas521032** - [GitHub Profile](https://github.com/Shreyas521032)
